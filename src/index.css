@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  margin: 0px;
+  /* background-color: black; */
+}
+
+body {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  position: relative;
+}
+
+#root {
+  height: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+
+}
